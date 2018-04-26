@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+.userWelcome {
+	
+	float:right;
+	position: relative;
+  	top: -3em;
+  	right: 2em;
+  	margin: 5px;
+  	text-align: right;
+  	text-transform: capitalize;
+ 	
+}
+
+.userWelcome p{
+	
+	font-size: 26px;
+}
+

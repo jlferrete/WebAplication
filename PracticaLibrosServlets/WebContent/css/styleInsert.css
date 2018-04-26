@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+
+
+.form1 {
+  clear: left;
+  float:left;
+  line-height:23px;
+  width: 15%;
+  
+}
+.form2 {
+  float: left;
+  width: 85%;
+  
+}
+
+#submitButton {
+	margin-top: 2%;
+}
+
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    text-decoration: none;
+    color: initial;
+    padding: 2px 14px 2px 14px;
+    margin-bottom: 15px;
+}
